@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "sns_tochigi_test_aw3d",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 3.0, "gid": 40643, "type": "depth", "input_src": "sns", "lat": 36.356667179055705, "lon": 139.71150455110001, "acquisitio": "2019/10/13 06:49:00.000", "wd": 1.48, "wh": 40.966831207275391, "hr_from_pk": 5.25, "dtm_h": 39.487 }, "geometry": { "type": "Point", "coordinates": [ 139.711504551000075, 36.356667179000056 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9.0, "gid": 40646, "type": "depth", "input_src": "sns", "lat": 36.35048, "lon": 139.7081, "acquisitio": "2019/10/13 06:49:00.000", "wd": 0.39, "wh": 38.235088348388672, "hr_from_pk": 5.25, "dtm_h": 37.845 }, "geometry": { "type": "Point", "coordinates": [ 139.7081, 36.35048 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11.0, "gid": 40644, "type": "depth", "input_src": "sns", "lat": 36.359484425105101, "lon": 139.710439456107, "acquisitio": "2019/10/13 06:49:00.000", "wd": 0.4, "wh": 40.928760528564453, "hr_from_pk": 5.25, "dtm_h": 40.529 }, "geometry": { "type": "Point", "coordinates": [ 139.710439456000017, 36.359484425000062 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 19.0, "gid": 46318, "type": "depth", "input_src": "sns", "lat": 36.353012, "lon": 139.710867, "acquisitio": "2019/10/13 09:24:59.000", "wd": 0.2, "wh": 39.113109588623047, "hr_from_pk": 7.5, "dtm_h": 38.913 }, "geometry": { "type": "Point", "coordinates": [ 139.710867000000121, 36.353012 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 22.0, "gid": 40641, "type": "depth", "input_src": "sns", "lat": 36.35438, "lon": 139.7107, "acquisitio": "2019/10/13 06:49:00.000", "wd": 0.73, "wh": 39.823768615722656, "hr_from_pk": 5.25, "dtm_h": 39.094 }, "geometry": { "type": "Point", "coordinates": [ 139.7107, 36.35438 ] } }
+]
+}
